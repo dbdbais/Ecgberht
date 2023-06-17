@@ -26,7 +26,7 @@ public class SimInfo {
         this.allyCluster = friend;
     }
 
-    public SimInfo() {
+    SimInfo() {
     }
 
     public enum SimType {GROUND, AIR, MIX}
